@@ -2,4 +2,4 @@ This repository contains a simple javafx application that exposes a bug in openj
 
 The **FileChooser.ExtensionFilter** works in Linux and Windows applications, but fails in macos (14) Sonoma.
 
-[This was the Oracle response: ](https://github.com/Papa-26/ExtensionBug/blob/main/ExtensionFilterBug/TestFiles/OpenjdkExFilBug.png)
+![This was the Oracle response: ](https://github.com/Papa-26/ExtensionBug/blob/main/ExtensionFilterBug/TestFiles/OpenjdkExFilBug.png)
