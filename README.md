@@ -8,4 +8,4 @@ This bug was reported to http://bugs.java.com/. They requested  a short example 
 
 This reaction not only demonstates Oracle's attention to the quality of their products, it also shows their respect for the efforts of developers by requesting additional work, while they had already made their decision.
 
-The attached little software enables interested parties to experiment with this bug on various platforms. Included are two test files (test.log, and test.grb in folder TestFiles). They should be placed in the user home directory, or any directory of your choice. On Linux and Windows, only the file with the extension '.log' will show up, on macs, however, both will show.
+The attached little software enables interested parties to experiment with this bug on various platforms. Included are two test files (test.log, and test.grb in folder TestFiles). They should be placed in the user home directory, or any directory of your choice. On Linux and Windows, only the file with the extension '.log' will show up, on macs, however, both will show. In addition, neither file can be opened on Macs!
